@@ -1,2 +1,3 @@
 # odin-recipes
 First project in odin. Practicing HTML then later CSS
+My understanding is that I will demonstrate what I have learned so far in HMTL. This project should include my abilities to create documents, organize and name properly, go from boiler plate to structured headings and body content, then add links and images. Later on, I will revisit this project and introduce CSS elements once I have learned them.
